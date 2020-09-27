@@ -29,6 +29,8 @@ Bill of materials:
   * ICMS Lower shell
   * ICMS Upper shell
 
+![assembly.png](assembly.png)
+
 0. Place the IR camera module into the _lower shell_ and snap
    the _upper shell_ onto the _lower shell_. The rim of the
    _upper shell_ should fit neatly to the _lower shell_.
